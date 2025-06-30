@@ -11,11 +11,12 @@ Hi, I'm Elliot, a computer engineer interested in data analyst, science and food
 - Distributed systems
 
 **Soft skills**
-- Responsability
+- Responsibility
 - Good communication
 - Time management
 
-## Educaion
-Computer engineering @ UNAM, Mexico
+## Education
+Computer engineering | UNAM at Mexico (_Nov 2024_)
 
 ## Projects
+
